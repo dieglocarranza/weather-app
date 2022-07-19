@@ -1,0 +1,36 @@
+{
+  "name": "Inalmos",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "~1.9.0",
+    "animate.css": "^3.5.2",
+    "font-awesome": "^4.7.0",
+    "slick-carousel": "^1.6.0",
+    "bootstrap-sass": "^3.3.7",
+    "components-font-awesome": "^4.7.0",
+    "owl.carousel": "^2.2.1",
+    "magnific-popup": "^1.1.0",
+    "smartmenus": "^1.0.1",
+    "turnjs": "*",
+    "waypoints": "^4.0.1",
+    "jquery-ui": "^1.12.1",
+    "parallax.js": "^1.4.2",
+    "fullpage.js": "^2.9.4",
+    "three.js": "threejs#*",
+    "jquery-drawsvg": "^1.1.0",
+    "requirejs": "latest",
+    "slick-lightbox": "^0.2.10",
+    "gsap": "^1.20.2"
+  },
+  "authors": [
+    "Diego Londono <diegolocarranza@gmail.com>"
+  ],
+  "description": "First version of an stable and scalable wordpress theme",
+  "main": "gulpfile.js",
+  "license": "MIT",
+  "homepage": "",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-sass": "^3.3.7"
+  }
+}

@@ -1,0 +1,45 @@
+/*Default Colors*/
+$white: #fff;
+$light-white: rgba(255, 255, 255, 0.9);
+$light-layer: rgba(255, 255, 255, 0.5);
+$light-secondary: rgba(23, 23, 45, 0.9);
+$light-tertiary: rgba(26, 169, 169, 0.8);
+$black: #000;
+$dark-transparent: rgba(0,0,0, 0.5);
+$dark-transparent-hover: rgba(0,0,0, 0.7);
+$dark-transparent-displayed: rgba(0,0,0, 0.9);
+
+$second-light-grey: #e0e0e0;
+$third-light-grey: #eaeaea;
+$fourth-light-grey: #d8d6d6;
+$dark-grey: #3c3c3c;
+$second-dark-grey: #505050;
+$home-grey: #464646;
+
+$red: #CE1821;
+
+$primary: #17172D;
+$light-primary: #053266;
+$dark-primary: #161628;
+
+$secondary: #28AECE;
+$tertiary: #269FBE;
+
+$paragraph: #4D4D4D;
+
+$grey: #A9A9A9;
+$light-grey: #e5e5e5;
+$about-light-grey: #F2EFF2;
+$super-light-grey: #F0F0F0;
+	
+$third-border-grey: #DADADA;
+$third-grey-bg: #EEEFF1;
+
+
+$blog-light-grey: #EFF0F2;
+$blog-border-grey: #DCDCDC;
+
+$darken: 35%;
+
+$color: $light-white;
+$color-alpha: darken( $color, $darken );

@@ -1,0 +1,14 @@
+spec/
+features/
+.idea/
+.c9/
+cheese.log
+pants.log
+tmp-test.log
+bin/*.json
+bin/*Cache
+features/sandbox/
+bowerRepository.json
+bowerRepositoryPublic.json
+gitRepoCache/
+svnRepoCache/

@@ -1,0 +1,40 @@
+{
+  "name": "in-deev",
+  "version": "1.0.0",
+  "description": "in-deev's wordpress theme.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "bower-requirejs": "^1.2.0",
+    "browser-sync": "^2.18.12",
+    "compass": "^0.1.1",
+    "grunt-contrib-compass": "^1.1.1",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-uglify": "^2.3.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-serve": "^1.4.0",
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.9.4",
+    "requirejs": "^2.3.3",
+    "wiredep": "^4.0.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "grunt-install-compass": "0.0.2",
+    "gulp": "^3.9.1",
+    "gulp-bower": "0.0.13",
+    "gulp-compass": "^2.1.0",
+    "gulp-inject": "^4.2.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Diego Londono",
+  "license": "ISC"
+}
