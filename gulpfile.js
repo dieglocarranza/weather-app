@@ -26,7 +26,6 @@ gulp.task('scripts', () => {
 // Gulp Serve
 gulp.task('serve', ['styles', 'scripts'], () => {
 
-    // browser sync
     browserSync({
         proxy: 'localhost',
         notify: false,
@@ -36,8 +35,9 @@ gulp.task('serve', ['styles', 'scripts'], () => {
 
     // watch task
     gulp.watch([
-        'assets/sass/**/*.scss',
-        'assets/js/*.js',
+        './assets/sass/**/*.scss',
+        './assets/js/*.js',
+        './**/*.html',
         './**/*.php'
     ]).on('change', reload);
 
